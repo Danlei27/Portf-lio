@@ -3,7 +3,7 @@ Projeto em React-native APP Android.
 link DownLoad:https://1drv.ms/u/s!Ar9efMKmYjyciyTLBkly1I4fpB9B?e=fkChAy
 
 <p align="center">
-  <img width="470" src="Screenshot_1620402373.png">  
+  <img width="100" src="Screenshot_1620402373.png">  
 </p>
 
 Front-End:
